@@ -10,3 +10,6 @@ __pycache__/
 .pytest_cache/
 # Provided lecture material is reference-only, not a submission artifact.
 /*.pdf
+
+# Reports and planning documents are kept locally for separate submission.
+/*.md
