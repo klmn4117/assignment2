@@ -1,0 +1,30 @@
+{
+  "object": "list",
+  "data": [
+    {
+      "id": "qwen3.5-122b-artifact",
+      "object": "model",
+      "created": 1794820561,
+      "owned_by": "vllm",
+      "root": "/import/work/aisato/model/huggingface/Qwen3.5-122B-A10B-FP8",
+      "parent": null,
+      "max_model_len": 131072,
+      "permission": [
+        {
+          "id": "modelperm-b005c699f16d4860",
+          "object": "model_permission",
+          "created": 1794820561,
+          "allow_create_engine": false,
+          "allow_sampling": true,
+          "allow_logprobs": true,
+          "allow_search_indices": false,
+          "allow_view": true,
+          "allow_fine_tuning": false,
+          "organization": "*",
+          "group": null,
+          "is_blocking": false
+        }
+      ]
+    }
+  ]
+}

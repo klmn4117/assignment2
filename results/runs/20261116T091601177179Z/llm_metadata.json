@@ -1,0 +1,28 @@
+{
+  "model": "qwen3.5-122b-artifact",
+  "response_model": "qwen3.5-122b-artifact",
+  "executed_at": "2026-11-16T09:16:01.177179+00:00",
+  "interface": "local OpenAI-compatible Chat Completions API",
+  "base_url": "http://localhost:8005/v1",
+  "settings": {
+    "temperature": 0,
+    "top_p": 1,
+    "seed": 42,
+    "max_tokens": 4096,
+    "stream": false
+  },
+  "new_chat": true,
+  "input_sha256": "038eb1fa981e99889cc92e6066d4dbfd1d003fe6812b58a4edbf9ac53cfb9b47",
+  "quantization": "FP8 (user-reported, downloaded from Hugging Face; exact repository/revision not recorded)",
+  "server": "vLLM (user-reported; version not recorded)",
+  "elapsed_seconds": 22.843,
+  "usage": {
+    "prompt_tokens": 832,
+    "total_tokens": 2930,
+    "completion_tokens": 2098,
+    "prompt_tokens_details": null
+  },
+  "finish_reason": "stop",
+  "artifacts": "results/runs/20261116T091601177179Z",
+  "server_defaults": "Parameters not present in request use server defaults; not independently verified"
+}

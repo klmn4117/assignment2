@@ -1,0 +1,44 @@
+{
+  "predictions": [
+    {
+      "id": "01",
+      "label": "positive"
+    },
+    {
+      "id": "02",
+      "label": "negative"
+    },
+    {
+      "id": "03",
+      "label": "positive"
+    },
+    {
+      "id": "04",
+      "label": "positive"
+    },
+    {
+      "id": "05",
+      "label": "positive"
+    },
+    {
+      "id": "06",
+      "label": "negative"
+    },
+    {
+      "id": "07",
+      "label": "positive"
+    },
+    {
+      "id": "08",
+      "label": "negative"
+    },
+    {
+      "id": "09",
+      "label": "positive"
+    },
+    {
+      "id": "10",
+      "label": "negative"
+    }
+  ]
+}

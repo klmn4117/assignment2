@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+*api_key*
+*credentials*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Provided lecture material is reference-only, not a submission artifact.
+/*.pdf
