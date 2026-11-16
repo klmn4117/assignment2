@@ -13,3 +13,5 @@ __pycache__/
 
 # Reports and planning documents are kept locally for separate submission.
 /*.md
+# New verification runs must not overwrite or be mixed with submitted results.
+/results/rechecks/
